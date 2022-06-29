@@ -1,1 +1,1 @@
-# ghostnet
+# ghostnet.kukai.app
